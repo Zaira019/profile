@@ -1,0 +1,15 @@
+{
+  "name": "dev_work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "ng-image-appear": "^1.11.5"
+  }
+}
